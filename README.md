@@ -14,6 +14,7 @@ A self-driving car that operates based on color and lane detection using OpenCV 
 
 ## Installation and Setup
 Hardware:
+
 Obtain hardware based on the "Components Used" section and connect components according to the "Diagram" section. 
 
 Software:
