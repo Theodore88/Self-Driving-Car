@@ -3,8 +3,8 @@
 A self-driving car that operates based on color and lane detection using OpenCV and Raspberry Pi.
 
 ## Diagram
-![image](https://github.com/Theodore88/Self-Driving-Car/assets/102427757/f864eeb0-a9fb-483e-b48b-d094e032605d)
 
+![image](https://github.com/Theodore88/Self-Driving-Car/assets/102427757/f864eeb0-a9fb-483e-b48b-d094e032605d)
 
 ## Code Summary
 - ColorDetection.py: File used for finding color range values needed to detect lane based on color.
