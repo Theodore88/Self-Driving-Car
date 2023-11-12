@@ -12,7 +12,7 @@ A self-driving car that operates based on color and lane detection using OpenCV 
 - Utils.py: Provides helper functions that are used by LaneDetection.py.
 - Main.py: Contains an infinite loop that calls WebCam.py to retrieve a frame from the web camera. This frame is given to LaneDetection.py to retrieve a curve value. After a curve value is obtained, it is sent to Motor.py to move the car based on the curve value.
 
-## Installation and Setup
+## Setup Instructions
 ### Hardware:
 Obtain hardware based on the "Components Used" section and connect components according to the "Diagram" section. 
 
