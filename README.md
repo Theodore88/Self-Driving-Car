@@ -13,10 +13,9 @@ A self-driving car that operates based on color and lane detection using OpenCV 
 - Main.py: Contains an infinite loop that calls WebCam.py to retrieve a frame from the web camera. This frame is given to LaneDetection.py to retrieve a curve value. After a curve value is obtained, it is sent to Motor.py to move the car based on the curve value.
 
 ## Installation and Setup
-Hardware:
-
+### Hardware:
 Obtain hardware based on the "Components Used" section and connect components according to the "Diagram" section. 
 
-Software:
+###Software:
 1. Make sure Webcam.py is configured to use the correct camera. To do this, run Webcam.py and change the argument of cv2.VideoCapture until the correct camera is used.
 2. Run Main.py and change the second argument of getLaneCurve depending on what you would like to be displayed. 
