@@ -2,6 +2,17 @@
 ## Description
 A self-driving car that operates based on color and lane detection using OpenCV and Raspberry Pi.
 
+## Components Used
+- Raspberry Pi 3 Model B
+- L298N Motor Driver
+- Jumper Wires
+- 2 DC Motors
+- 4 AA Battery Holder
+- 5V Power Bank
+- Webcam
+
+
+
 ## Diagram
 
 ![image](https://github.com/Theodore88/Self-Driving-Car/assets/102427757/f864eeb0-a9fb-483e-b48b-d094e032605d)
